@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1678329777 source:/home/elbadry/Desktop/Lab1_OS/main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<unistd.h>
+	<signal.h>
+	<string.h>
+
